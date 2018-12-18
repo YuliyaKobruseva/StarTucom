@@ -1,0 +1,38 @@
+l
+P vulcano
+P VULCAN
+c Vulcan Vulcano Spock 10
+c
+b pepe
+c pepe nibiru pepe vegetarian
+c nibirian nibu pepe vegetarian
+c nibirian nibiru pepe carnivoro
+c nibirian nibiru pepe novegetarian
+M Spock 12
+L
+c Vulcan Andoria Ash a
+c Vulcan Andoria Ash 23
+c Vulcan Andoria Ash 8
+c Vulcan kronos Ash 8
+p vulcan
+m pepe 2
+c Nibirian Nibiru Spock 23
+C Andorian Andoria Swiper aenar
+m spoc 8
+C Andorian Nibiru Sally noaenar
+C klingon kronos Watch 280
+c human kronos Maria 21
+r human 22
+l human
+m maria 22
+L
+c andorian andoria Aisha aenar
+c klingon andoria Wolfang 413
+b wolfang
+c klingon andoria Wolfang 319
+b watch
+p klingon
+P
+c andorian kronos Kirks noaenar
+p andorian
+x
